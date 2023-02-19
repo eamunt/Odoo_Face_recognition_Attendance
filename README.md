@@ -6,29 +6,37 @@ Each person will have their own facial features and we can use classification or
 The Facenet feature extraction model gives an accuracy of 84.51% on the VN-Celeb dataset. Specially apply Autofaiss, an Approximate nearest neighbor (ANN) algorithm that is 5 times faster than traditional KNN algorithm for face recognition.
 
 3 Giai đoạn của bài toán nhận diện khuôn mặt
-<img width="1059" alt="Screen Shot 2023-02-19 at 23 55 07" src="https://user-images.githubusercontent.com/93971378/219962829-fe2d5700-4c33-4745-bd32-10ea00d68759.png">
+<img width="359" alt="Screen Shot 2023-02-19 at 23 55 07" src="https://user-images.githubusercontent.com/93971378/219962829-fe2d5700-4c33-4745-bd32-10ea00d68759.png">
 
 Face detection:
-<img width="824" alt="Screen Shot 2023-02-19 at 23 55 26" src="https://user-images.githubusercontent.com/93971378/219962961-c3ce1a72-0a82-4e48-a181-3223f0791b57.png">
+
+<img width="324" alt="Screen Shot 2023-02-19 at 23 55 26" src="https://user-images.githubusercontent.com/93971378/219962961-c3ce1a72-0a82-4e48-a181-3223f0791b57.png">
 
 Preprocessing
-<img width="755" alt="Screen Shot 2023-02-19 at 23 55 42" src="https://user-images.githubusercontent.com/93971378/219962970-4a72d683-efd0-461e-8423-05dc97f83605.png">
+
+<img width="355" alt="Screen Shot 2023-02-19 at 23 55 42" src="https://user-images.githubusercontent.com/93971378/219962970-4a72d683-efd0-461e-8423-05dc97f83605.png">
 
 Detect and crop
+
 <img width="375" alt="Screen Shot 2023-02-19 at 23 56 16" src="https://user-images.githubusercontent.com/93971378/219963020-e265fecd-dd4b-47eb-a6ee-9368836dfed0.png">
 
 Single shot multibox detector (SSD) model:
-<img width="995" alt="Screen Shot 2023-02-19 at 23 56 44" src="https://user-images.githubusercontent.com/93971378/219963064-d0907a94-d5df-4c84-9d33-a7046736ba96.png">
+
+<img width="595" alt="Screen Shot 2023-02-19 at 23 56 44" src="https://user-images.githubusercontent.com/93971378/219963064-d0907a94-d5df-4c84-9d33-a7046736ba96.png">
 
 Odoo:
-<img width="654" alt="Screen Shot 2023-02-19 at 23 57 35" src="https://user-images.githubusercontent.com/93971378/219963082-9d388d05-0788-44cb-8397-d447469a57b4.png">
+
+<img width="354" alt="Screen Shot 2023-02-19 at 23 57 35" src="https://user-images.githubusercontent.com/93971378/219963082-9d388d05-0788-44cb-8397-d447469a57b4.png">
 
 Chưa tới giờ chấm công:
-<img width="746" alt="Screen Shot 2023-02-19 at 23 57 50" src="https://user-images.githubusercontent.com/93971378/219963118-41ebc14c-4db1-4651-a290-fe70047583be.png">
+
+<img width="246" alt="Screen Shot 2023-02-19 at 23 57 50" src="https://user-images.githubusercontent.com/93971378/219963118-41ebc14c-4db1-4651-a290-fe70047583be.png">
 
 unknow(stranger):
-<img width="723" alt="Screen Shot 2023-02-19 at 23 57 59" src="https://user-images.githubusercontent.com/93971378/219963147-b0120a41-c684-4c3a-b4cf-1bc5381bc240.png">
+
+<img width="223" alt="Screen Shot 2023-02-19 at 23 57 59" src="https://user-images.githubusercontent.com/93971378/219963147-b0120a41-c684-4c3a-b4cf-1bc5381bc240.png">
 
 Checkin, checkout
-<img width="973" alt="Screen Shot 2023-02-19 at 23 58 07" src="https://user-images.githubusercontent.com/93971378/219963176-4a7ae7d8-c3c0-4e98-a7f2-1022fe74bfc0.png">
-<img width="1080" alt="Screen Shot 2023-02-19 at 23 58 17" src="https://user-images.githubusercontent.com/93971378/219963191-c5e6ce43-32a8-428a-a1b4-6c3b26bc163a.png">
+
+<img width="573" alt="Screen Shot 2023-02-19 at 23 58 07" src="https://user-images.githubusercontent.com/93971378/219963176-4a7ae7d8-c3c0-4e98-a7f2-1022fe74bfc0.png">
+<img width="580" alt="Screen Shot 2023-02-19 at 23 58 17" src="https://user-images.githubusercontent.com/93971378/219963191-c5e6ce43-32a8-428a-a1b4-6c3b26bc163a.png">
