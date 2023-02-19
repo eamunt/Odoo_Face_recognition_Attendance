@@ -24,6 +24,12 @@ Single shot multibox detector (SSD) model:
 
 <img width="595" alt="Screen Shot 2023-02-19 at 23 56 44" src="https://user-images.githubusercontent.com/93971378/219963064-d0907a94-d5df-4c84-9d33-a7046736ba96.png">
 
+Autofaiss:
+
+<img width="411" alt="Screen Shot 2023-02-20 at 00 14 30" src="https://user-images.githubusercontent.com/93971378/219963632-f0ec2189-bc6b-494e-bcd2-28c21d7016cc.png">
+<img width="529" alt="Screen Shot 2023-02-20 at 00 14 47" src="https://user-images.githubusercontent.com/93971378/219963641-6aaaf3ed-c089-4792-a26a-e8292442a734.png">
+
+
 Odoo:
 
 <img width="354" alt="Screen Shot 2023-02-19 at 23 57 35" src="https://user-images.githubusercontent.com/93971378/219963082-9d388d05-0788-44cb-8397-d447469a57b4.png">
@@ -43,5 +49,5 @@ Checkin, checkout
 
 Report:
 
-<img width="377" alt="Screen Shot 2023-02-20 at 00 12 33" src="https://user-images.githubusercontent.com/93971378/219963496-7151b7f7-b9aa-4fa3-9934-9ca545ecf460.png">
-<img width="358" alt="Screen Shot 2023-02-20 at 00 11 24" src="https://user-images.githubusercontent.com/93971378/219963463-a328337d-4490-486c-8ece-ee180d4b931b.png">
+<img width="577" alt="Screen Shot 2023-02-20 at 00 12 33" src="https://user-images.githubusercontent.com/93971378/219963496-7151b7f7-b9aa-4fa3-9934-9ca545ecf460.png">
+<img width="558" alt="Screen Shot 2023-02-20 at 00 11 24" src="https://user-images.githubusercontent.com/93971378/219963463-a328337d-4490-486c-8ece-ee180d4b931b.png">
