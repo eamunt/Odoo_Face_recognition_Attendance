@@ -40,3 +40,8 @@ Checkin, checkout
 
 <img width="573" alt="Screen Shot 2023-02-19 at 23 58 07" src="https://user-images.githubusercontent.com/93971378/219963176-4a7ae7d8-c3c0-4e98-a7f2-1022fe74bfc0.png">
 <img width="580" alt="Screen Shot 2023-02-19 at 23 58 17" src="https://user-images.githubusercontent.com/93971378/219963191-c5e6ce43-32a8-428a-a1b4-6c3b26bc163a.png">
+
+Report:
+
+<img width="377" alt="Screen Shot 2023-02-20 at 00 12 33" src="https://user-images.githubusercontent.com/93971378/219963496-7151b7f7-b9aa-4fa3-9934-9ca545ecf460.png">
+<img width="358" alt="Screen Shot 2023-02-20 at 00 11 24" src="https://user-images.githubusercontent.com/93971378/219963463-a328337d-4490-486c-8ece-ee180d4b931b.png">
